@@ -1,0 +1,31 @@
+{
+  "e-ticaret": {
+    "ad": "E-Ticaret Destekleri",
+    "sorumlu": "[departman sorumlusu]",
+    "aciklama": "E-ticaret sitesi, pazaryeri, dijital pazarlama ve e-ihracat destekleri",
+    "ana_kaynaklar": ["Ticaret Bakanlığı", "e-ihracat destekleri mevzuatı"]
+  },
+  "kosgeb": {
+    "ad": "KOSGEB Destekleri",
+    "sorumlu": "[departman sorumlusu]",
+    "aciklama": "Girişimci destek programı, KOBİGEL, Ar-Ge/İnovasyon, işletme geliştirme ve kapasite geliştirme programları",
+    "ana_kaynaklar": ["KOSGEB", "kosgeb.gov.tr uygulama esasları"]
+  },
+  "saglik-turizmi": {
+    "ad": "Sağlık Turizmi Destekleri",
+    "sorumlu": "[departman sorumlusu]",
+    "aciklama": "Sağlık turizmi tanıtım, yetki belgesi ve hizmet ihracatı destekleri",
+    "ana_kaynaklar": ["Ticaret Bakanlığı", "Sağlık Bakanlığı USHAŞ"]
+  },
+  "yatirim-tesvik": {
+    "ad": "Yatırım Teşvik Belgesi",
+    "sorumlu": "[departman sorumlusu]",
+    "aciklama": "Yatırım teşvik belgesi düzenleme, revize, tamamlama vizesi ve destek unsurları",
+    "ana_kaynaklar": ["Sanayi ve Teknoloji Bakanlığı", "E-TUYS"]
+  },
+  "ortak": {
+    "ad": "Ortak / Kurumsal",
+    "sorumlu": "[kütüphane sorumlusu]",
+    "aciklama": "Tüm departmanları ilgilendiren kurumsal süreçler, sözleşme şablonları, müşteri iletişim standartları"
+  }
+}

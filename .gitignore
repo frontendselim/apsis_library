@@ -1,0 +1,4 @@
+node_modules/
+.DS_Store
+.index-cache.json
+logs/*.jsonl

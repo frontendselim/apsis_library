@@ -1,0 +1,26 @@
+{
+  "name": "apsis-kutuphane-mcp",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Apsis Danışmanlık kurumsal bilgi kütüphanesi ve MCP sunucusu",
+  "bin": {
+    "apsis-kutuphane-mcp": "mcp-server/src/index.js"
+  },
+  "scripts": {
+    "start": "node mcp-server/src/index.js",
+    "http": "node mcp-server/src/index.js --http",
+    "index": "node mcp-server/src/cli-index.js",
+    "ara": "node mcp-server/src/cli-search.js",
+    "rapor": "node mcp-server/src/cli-report.js",
+    "test": "node mcp-server/test/duman-testi.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.30.0",
+    "mammoth": "^1.12.0",
+    "zod": "^3.25.76"
+  }
+}
